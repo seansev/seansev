@@ -8,3 +8,5 @@ OS:
 - Void Linux
 - Windows 11
 - Gentoo (in-progress)
+
+I *never* use AI to write my words or my READMEs. (Only my Python.)
