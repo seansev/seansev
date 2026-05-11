@@ -7,6 +7,7 @@ I am gradually moving what I can to [Codeberg](https://codeberg.org/seansev) bec
 OS:
 - Void Linux
 - Windows 11
+- Debian Trixie
 - Gentoo (in-progress)
 
-I *never* use AI to write my words or my READMEs. (Only my Python.)
+I use AI as a tool for research and rapid prototyping. I *never* use AI to write my words or documentation, and only publish AI code after a manual rewrite or review.
